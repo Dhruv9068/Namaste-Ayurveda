@@ -1,0 +1,11 @@
+code,term_original,term_english,description,category,icd11_code,icd11_term
+AAA-1.1,वातव्याधि,Vata disorders,Neurological disorders due to Vata imbalance,Neurological,XM9876,Neurological disorder
+AAA-2.1,प्राणवातकोप,Disturbance of Prana Vata,Respiratory disorders due to Prana Vata,Respiratory,XM4567,Respiratory dysfunction
+AAA-3.1,उदानवातकोप,Disturbance of Udana Vata,Speech and respiratory issues,Respiratory,XM4568,Speech disorders
+BBB-1.1,पित्तव्याधि,Pitta disorders,Metabolic and digestive disorders,Digestive,XM7890,Digestive system disorder
+BBB-1.2,अग्निमांद्य,Digestive fire imbalance,Weakened digestive fire,Digestive,XM7891,Digestive dysfunction
+BBB-2.1,अम्लपित्त,Hyperacidity,Excess acid production in stomach,Digestive,XM7892,Gastric acid disorder
+CCC-1.1,कफव्याधि,Kapha disorders,Respiratory and metabolic disorders due to Kapha,Respiratory,XM4569,Respiratory congestion
+CCC-2.1,कासरोग,Cough disorders,Various types of cough conditions,Respiratory,XM4570,Cough disorders
+DDD-1.1,त्वचारोग,Skin disorders,Various dermatological conditions,Dermatological,XM2345,Skin disorders
+DDD-2.1,कुष्ठरोग,Chronic skin conditions,Chronic dermatological disorders,Dermatological,XM2346,Chronic skin disease

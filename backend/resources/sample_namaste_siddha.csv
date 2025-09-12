@@ -1,0 +1,11 @@
+code,term_original,term_english,description,category,icd11_code,icd11_term
+SID-1.1,वळि नॊय्,Vaḷi disorders,Wind-related disorders in Siddha system,Neurological,XM9877,Neurological dysfunction
+SID-2.1,अळल नॊय्,Aẕal disorders,Fire-related disorders affecting digestion,Digestive,XM7893,Digestive fire disorder
+SID-3.1,इयम् नॊय्,Iyam disorders,Phlegm-related respiratory conditions,Respiratory,XM4571,Respiratory phlegm disorder
+SID-4.1,वळि इरैप्पु नॊय्,Vaḷi breathing disorder,Breathing difficulties due to Vaḷi,Respiratory,XM5432,Breathing dysfunction
+SID-5.1,कपाल करप्पान्,Scalp eczema,Scalp skin conditions,Dermatological,XM2347,Scalp dermatitis
+SID-6.1,नेत्र रॊगम्,Eye disorders,Various eye-related conditions,Ophthalmological,XM8901,Eye disorders
+SID-7.1,कर्ण रॊगम्,Ear disorders,Hearing and ear-related issues,ENT,XM8902,Ear disorders
+SID-8.1,हृदय रॊगम्,Heart disorders,Cardiovascular conditions,Cardiovascular,XM6789,Heart disorders
+SID-9.1,यकृत् रॊगम्,Liver disorders,Hepatic conditions and disorders,Hepatic,XM7894,Liver dysfunction
+SID-10.1,वृक्क रॊगम्,Kidney disorders,Renal system disorders,Renal,XM8903,Kidney disorders

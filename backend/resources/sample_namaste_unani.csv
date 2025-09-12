@@ -1,0 +1,11 @@
+code,term_original,term_english,description,category,icd11_code,icd11_term
+UNA-1.1,वज अल-कल्ब,Heart pain,Cardiovascular pain and disorders,Cardiovascular,XM6790,Cardiac pain
+UNA-2.1,वज अल-मफासिल,Joint pain,Arthritis and joint disorders,Musculoskeletal,XM5433,Joint disorders
+UNA-3.1,सू मिजाज-इ-कबिद,Liver dysfunction,Hepatic temperament disorders,Hepatic,XM7895,Liver temperament disorder
+UNA-4.1,सू मिजाज-इ-मिदा,Stomach dysfunction,Gastric temperament disorders,Digestive,XM7896,Gastric dysfunction
+UNA-5.1,बुखार,Fever,Various types of febrile conditions,Systemic,XM1234,Febrile disorders
+UNA-6.1,सुदा,Headache,Various types of headaches,Neurological,XM9878,Headache disorders
+UNA-7.1,जुकाम,Common cold,Upper respiratory tract infections,Respiratory,XM4572,Upper respiratory infection
+UNA-8.1,खुजली,Itching,Various pruritic skin conditions,Dermatological,XM2348,Pruritic disorders
+UNA-9.1,पेशाब की तकलीफ,Urinary problems,Various urological disorders,Urological,XM8904,Urinary disorders
+UNA-10.1,बवासीर,Hemorrhoids,Anorectal disorders,Gastroenterological,XM7897,Anorectal disorders
