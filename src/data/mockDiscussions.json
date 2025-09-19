@@ -1,0 +1,133 @@
+[
+  {
+    "id": "1",
+    "title": "Effective NAMASTE to ICD-11 Mapping Strategies",
+    "content": "After 15 years of Ayurvedic practice, I've developed systematic approaches for accurate code mapping. The key is understanding both traditional concepts and modern terminology. For respiratory conditions like प्राणवातकोप, we need to consider the underlying Vata imbalance while mapping to ICD-11 respiratory codes.",
+    "author": "Dr. Rajesh Kumar",
+    "authorId": "user1",
+    "category": "mapping",
+    "tags": ["ayurveda", "icd11", "mapping", "respiratory"],
+    "createdAt": "2024-12-01T12:30:00Z",
+    "replies": [
+      {
+        "id": "r1",
+        "content": "Excellent insights! I've found similar challenges with Kapha-related conditions. The AI mapping tool has been helpful for consistency.",
+        "author": "Dr. Meera Patel",
+        "authorId": "user5",
+        "createdAt": "2024-12-01T13:30:00Z",
+        "likes": 8
+      }
+    ],
+    "likes": 24,
+    "views": 156
+  },
+  {
+    "id": "2",
+    "title": "Siddha Medicine Digitization: Clinical Trial Results",
+    "content": "Our 6-month clinical trial at Government Siddha Medical College shows remarkable results. We successfully digitized 847 patient records with 96% accuracy in NAMASTE code mapping. The AI system particularly excels with Vaḷi-related disorders. Key findings: 1) Respiratory conditions show highest mapping accuracy, 2) Digestive disorders need more contextual analysis, 3) Multi-language support crucial for Tamil terminology.",
+    "author": "Dr. Priya Sharma",
+    "authorId": "user2",
+    "category": "research",
+    "tags": ["siddha", "research", "digitization", "clinical-trial"],
+    "createdAt": "2024-12-01T07:30:00Z",
+    "replies": [
+      {
+        "id": "r2",
+        "content": "Fascinating results! Could you share more details about the Tamil terminology challenges? We're facing similar issues.",
+        "author": "Dr. Suresh Menon",
+        "authorId": "user6",
+        "createdAt": "2024-12-01T09:30:00Z",
+        "likes": 5
+      },
+      {
+        "id": "r3",
+        "content": "The 96% accuracy is impressive! How does it compare with manual coding by experienced practitioners?",
+        "author": "Dr. Kavitha Raman",
+        "authorId": "user7",
+        "createdAt": "2024-12-01T10:30:00Z",
+        "likes": 3
+      }
+    ],
+    "likes": 31,
+    "views": 203
+  },
+  {
+    "id": "3",
+    "title": "EHR Integration Challenges: FHIR R4 Implementation",
+    "content": "Implementing FHIR R4 standards for traditional medicine EHR has unique challenges. Main issues: 1) Traditional terminology doesn't always fit standard ValueSets, 2) Multi-language support for medical terms, 3) Consent management for traditional practices, 4) Interoperability with existing hospital systems. Looking for solutions and best practices from the community.",
+    "author": "Dr. Ahmed Hassan",
+    "authorId": "user3",
+    "category": "technical",
+    "tags": ["ehr", "integration", "technical", "fhir", "interoperability"],
+    "createdAt": "2024-11-30T16:30:00Z",
+    "replies": [
+      {
+        "id": "r4",
+        "content": "We solved the ValueSet issue by creating custom extensions for traditional medicine concepts. Happy to share our implementation.",
+        "author": "Dr. Anita Gupta",
+        "authorId": "user8",
+        "createdAt": "2024-11-30T18:30:00Z",
+        "likes": 12
+      }
+    ],
+    "likes": 28,
+    "views": 189
+  },
+  {
+    "id": "4",
+    "title": "Unani Medicine Terminology: WHO ICD-11 TM2 Alignment",
+    "content": "Working on aligning Unani medical terminology with WHO ICD-11 Traditional Medicine Module 2. Key challenges: Arabic-Urdu transliteration variations, regional terminology differences, and conceptual mapping between Unani Mizaj theory and modern pathophysiology. Seeking collaboration with international Unani practitioners for standardization efforts.",
+    "author": "Dr. Fatima Sheikh",
+    "authorId": "user4",
+    "category": "general",
+    "tags": ["unani", "standardization", "terminology", "who", "icd11"],
+    "createdAt": "2024-11-30T12:30:00Z",
+    "replies": [
+      {
+        "id": "r5",
+        "content": "This is crucial work! We're developing similar standards in Malaysia. Would love to collaborate on international guidelines.",
+        "author": "Dr. Zainab Ahmad",
+        "authorId": "user9",
+        "createdAt": "2024-11-30T14:30:00Z",
+        "likes": 7
+      }
+    ],
+    "likes": 19,
+    "views": 134
+  },
+  {
+    "id": "5",
+    "title": "AI Accuracy in Complex Traditional Diagnoses",
+    "content": "Analyzing AI performance with complex multi-system traditional diagnoses. Cases involving multiple Doshas (Ayurveda) or combined Vaḷi-Aẕal conditions (Siddha) show interesting patterns. The system performs well with single-system disorders but needs improvement for complex cases. Sharing case studies and seeking input on training data enhancement.",
+    "author": "Dr. Ramesh Chandra",
+    "authorId": "user10",
+    "category": "research",
+    "tags": ["ai", "accuracy", "complex-diagnosis", "machine-learning"],
+    "createdAt": "2024-11-29T12:30:00Z",
+    "replies": [],
+    "likes": 16,
+    "views": 89
+  },
+  {
+    "id": "6",
+    "title": "Patient Data Privacy in Traditional Medicine EHR",
+    "content": "Discussing privacy considerations unique to traditional medicine practice. Traditional consultations often involve family history, lifestyle, and spiritual aspects that require special handling. How do we balance comprehensive traditional assessment with modern privacy regulations like GDPR and India's Personal Data Protection Act?",
+    "author": "Dr. Lakshmi Devi",
+    "authorId": "user11",
+    "category": "general",
+    "tags": ["privacy", "gdpr", "data-protection", "ethics"],
+    "createdAt": "2024-11-28T12:30:00Z",
+    "replies": [
+      {
+        "id": "r6",
+        "content": "Great point! We've implemented tiered consent levels - basic medical data, extended family history, and spiritual/lifestyle factors as separate consent categories.",
+        "author": "Dr. Vijay Kumar",
+        "authorId": "user12",
+        "createdAt": "2024-11-28T18:30:00Z",
+        "likes": 9
+      }
+    ],
+    "likes": 22,
+    "views": 167
+  }
+]

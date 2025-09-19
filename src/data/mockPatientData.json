@@ -1,0 +1,132 @@
+[
+  {
+    "id": "PT001",
+    "name": "Rajesh Kumar",
+    "age": 45,
+    "gender": "Male",
+    "dob": "1979-03-15",
+    "phone": "+91-9876543210",
+    "address": "New Delhi, India",
+    "lastVisit": "2024-01-15",
+    "status": "active",
+    "diagnoses": [
+      {
+        "condition": "Pranavayu Kopa (Respiratory Disorder)",
+        "namasteCode": "AAA-2.1",
+        "icd11Code": "XM4567-TM2",
+        "description": "Vata disorder affecting respiratory system with breathing difficulties",
+        "date": "2024-01-15"
+      },
+      {
+        "condition": "Vatavyadhi (Neurological Disorder)",
+        "namasteCode": "AAA-1.1",
+        "icd11Code": "XM7890-TM2",
+        "description": "Primary vata disorder affecting nervous system",
+        "date": "2024-01-10"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medicine": "Pranavayu Chintamani Rasa",
+        "dosage": "125mg twice daily",
+        "duration": "30 days",
+        "instructions": "Take with warm water after meals",
+        "date": "2024-01-15"
+      },
+      {
+        "medicine": "Saraswatarishta",
+        "dosage": "15ml twice daily",
+        "duration": "45 days",
+        "instructions": "Take with equal amount of water after meals",
+        "date": "2024-01-15"
+      }
+    ]
+  },
+  {
+    "id": "PT002",
+    "name": "Priya Sharma",
+    "age": 38,
+    "gender": "Female",
+    "dob": "1985-07-22",
+    "phone": "+91-9876543211",
+    "address": "Mumbai, India",
+    "lastVisit": "2024-01-14",
+    "status": "active",
+    "diagnoses": [
+      {
+        "condition": "Kapal Karappan (Scalp Eczema)",
+        "namasteCode": "BFA-1.1",
+        "icd11Code": "XM2345-TM2",
+        "description": "Vata-type scalp eczema with dryness and scaling",
+        "date": "2024-01-14"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medicine": "Keshanjana Oil",
+        "dosage": "Apply topically",
+        "duration": "21 days",
+        "instructions": "Massage gently on scalp before bedtime",
+        "date": "2024-01-14"
+      }
+    ]
+  },
+  {
+    "id": "PT003",
+    "name": "Mohammed Ali",
+    "age": 52,
+    "gender": "Male",
+    "dob": "1971-11-08",
+    "phone": "+91-9876543212",
+    "address": "Hyderabad, India",
+    "lastVisit": "2024-01-13",
+    "status": "inactive",
+    "diagnoses": [
+      {
+        "condition": "Waja al-Mafasil (Joint Pain)",
+        "namasteCode": "L-4.1",
+        "icd11Code": "XM9876-TM2",
+        "description": "Sanguineous arthritis with multiple joint involvement",
+        "date": "2024-01-13"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medicine": "Roghan Mafasil",
+        "dosage": "Apply externally",
+        "duration": "14 days",
+        "instructions": "Warm oil massage twice daily",
+        "date": "2024-01-13"
+      }
+    ]
+  },
+  {
+    "id": "PT004",
+    "name": "Lakshmi Devi",
+    "age": 34,
+    "gender": "Female",
+    "dob": "1989-12-03",
+    "phone": "+91-9876543213",
+    "address": "Chennai, India",
+    "lastVisit": "2024-01-12",
+    "status": "active",
+    "diagnoses": [
+      {
+        "condition": "Vaḷi Iraippu Nōy (Breathing Difficulty)",
+        "namasteCode": "DAA-1.1",
+        "icd11Code": "XM5432-TM2",
+        "description": "Vata-type respiratory disorder in Siddha system",
+        "date": "2024-01-12"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medicine": "Vasantha Kusumakara Rasa",
+        "dosage": "250mg once daily",
+        "duration": "60 days",
+        "instructions": "Take with honey in the morning",
+        "date": "2024-01-12"
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "DR001",
+    "name": "Dr. Rajesh Kumar",
+    "specialization": "Ayurveda Physician",
+    "experience": "15 years",
+    "department": "Panchakarma",
+    "stats": {
+      "totalPatients": 847,
+      "mappingsCreated": 1250,
+      "accuracyRate": 96,
+      "weeklyUploads": 23
+    },
+    "recentUploads": [
+      {
+        "patient": "Priya Sharma",
+        "diagnosis": "Vatavyadhi with respiratory symptoms",
+        "date": "2024-01-15",
+        "status": "mapped"
+      },
+      {
+        "patient": "Amit Singh",
+        "diagnosis": "Kapha disorder with digestive issues",
+        "date": "2024-01-14",
+        "status": "pending"
+      },
+      {
+        "patient": "Sunita Devi",
+        "diagnosis": "Pitta imbalance with skin manifestations",
+        "date": "2024-01-13",
+        "status": "mapped"
+      }
+    ]
+  },
+  {
+    "id": "DR002",
+    "name": "Dr. Priya Patel",
+    "specialization": "Siddha Physician",
+    "experience": "12 years",
+    "department": "General Medicine",
+    "stats": {
+      "totalPatients": 623,
+      "mappingsCreated": 890,
+      "accuracyRate": 94,
+      "weeklyUploads": 18
+    },
+    "recentUploads": [
+      {
+        "patient": "Rajesh Kumar",
+        "diagnosis": "Vaḷi related neurological disorder",
+        "date": "2024-01-15",
+        "status": "mapped"
+      },
+      {
+        "patient": "Kavitha S",
+        "diagnosis": "Aẕal skin condition",
+        "date": "2024-01-14",
+        "status": "mapped"
+      }
+    ]
+  },
+  {
+    "id": "DR003",
+    "name": "Dr. Ahmed Hassan",
+    "specialization": "Unani Physician",
+    "experience": "18 years",
+    "department": "Cardiovascular",
+    "stats": {
+      "totalPatients": 756,
+      "mappingsCreated": 1124,
+      "accuracyRate": 92,
+      "weeklyUploads": 21
+    },
+    "recentUploads": [
+      {
+        "patient": "Fatima Sheikh",
+        "diagnosis": "Waja al-Qalb (Heart pain)",
+        "date": "2024-01-15",
+        "status": "mapped"
+      },
+      {
+        "patient": "Salim Khan",
+        "diagnosis": "Sū mizāj-i-Kabid (Liver dysfunction)",
+        "date": "2024-01-14",
+        "status": "pending"
+      }
+    ]
+  }
+]

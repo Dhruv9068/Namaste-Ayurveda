@@ -1,0 +1,16 @@
+# Copy this file to .env.local and fill in your actual credentials
+
+# API Configuration
+VITE_API_BASE_URL=http://localhost:5000/api
+
+# Gemini AI API Key
+VITE_GEMINI_API_KEY=your_gemini_api_key_here
+
+# Firebase Configuration (if using client-side Firebase)
+VITE_FIREBASE_API_KEY=your_firebase_api_key_here
+VITE_FIREBASE_AUTH_DOMAIN=namaste-ayurveda.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=namaste-ayurveda
+VITE_FIREBASE_STORAGE_BUCKET=namaste-ayurveda.firebasestorage.app
+VITE_FIREBASE_MESSAGING_SENDER_ID=330546716430
+VITE_FIREBASE_APP_ID=1:330546716430:web:4b948e67dd873c30a8415f
+VITE_FIREBASE_MEASUREMENT_ID=G-JJ07QE82TY

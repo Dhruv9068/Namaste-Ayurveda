@@ -1,0 +1,6 @@
+- [x] Create virtual environment in backend/
+- [x] Install requirements.txt using venv pip
+- [x] Run the Flask app using venv python
+- [x] Install frontend dependencies
+- [x] Run frontend dev server
+- [x] Implement real-time search in MappingPanel with debouncing

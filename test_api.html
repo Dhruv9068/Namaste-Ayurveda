@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test NAMASTE API</title>
+</head>
+<body>
+    <h1>Test NAMASTE API Search</h1>
+    <button onclick="testSearch()">Test Search for "vata"</button>
+    <button onclick="testHealth()">Test Health Check</button>
+    <button onclick="testStats()">Test Stats</button>
+    <pre id="output"></pre>
+
+    <script>
+        async function testSearch() {
+            try {
+                const response = await fetch('http://127.0.0.1:5000/api/namaste/search', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        query: 'vata'
+                    })
+                });
+                const data = await response.json();
+                document.getElementById('output').textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                document.getElementById('output').textContent = 'Error: ' + error.message;
+            }
+        }
+
+        async function testHealth() {
+            try {
+                const response = await fetch('http://127.0.0.1:5000/api/health');
+                const data = await response.json();
+                document.getElementById('output').textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                document.getElementById('output').textContent = 'Error: ' + error.message;
+            }
+        }
+
+        async function testStats() {
+            try {
+                const response = await fetch('http://127.0.0.1:5000/api/stats');
+                const data = await response.json();
+                document.getElementById('output').textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                document.getElementById('output').textContent = 'Error: ' + error.message;
+            }
+        }
+    </script>
+</body>
+</html>

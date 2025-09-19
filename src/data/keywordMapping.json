@@ -1,0 +1,62 @@
+{
+  "respiratory": {
+    "keywords": ["breathing", "respiratory", "lung", "asthma", "cough", "pranavayu", "श्वास", "कास"],
+    "namasteCode": "AAA-2.1",
+    "namasteTerm": "प्राणवातकोप",
+    "englishTerm": "Disturbance of Prana Vata",
+    "system": "Ayurveda",
+    "icd11Code": "XM4567",
+    "icd11Term": "Respiratory dysfunction",
+    "confidence": 92
+  },
+  "digestive": {
+    "keywords": ["stomach", "digestive", "agni", "mandya", "अग्निमांद्य", "पेट", "digestion"],
+    "namasteCode": "BBB-1.2",
+    "namasteTerm": "अग्निमांद्य",
+    "englishTerm": "Digestive fire imbalance",
+    "system": "Ayurveda",
+    "icd11Code": "XM7890",
+    "icd11Term": "Digestive system disorder",
+    "confidence": 88
+  },
+  "neurological": {
+    "keywords": ["nerve", "neurological", "vata", "vatavyadhi", "वातव्याधि", "nervous"],
+    "namasteCode": "AAA-1.1",
+    "namasteTerm": "वातव्याधि",
+    "englishTerm": "Vata disorder affecting nervous system",
+    "system": "Ayurveda",
+    "icd11Code": "XM9876",
+    "icd11Term": "Neurological disorder",
+    "confidence": 90
+  },
+  "skin": {
+    "keywords": ["skin", "eczema", "dermatitis", "kapal", "कपाल", "त्वचा", "kushtha"],
+    "namasteCode": "BFA-1.1",
+    "namasteTerm": "कपाल करप्पान्",
+    "englishTerm": "Scalp eczema due to Vata",
+    "system": "Siddha",
+    "icd11Code": "XM2345",
+    "icd11Term": "Atopic dermatitis of scalp",
+    "confidence": 91
+  },
+  "joint": {
+    "keywords": ["joint", "arthritis", "mafasil", "waja", "जोड़", "गठिया", "sandhivata"],
+    "namasteCode": "L-4.1",
+    "namasteTerm": "वज अल-मफासिल",
+    "englishTerm": "Joint pain",
+    "system": "Unani",
+    "icd11Code": "XM9876",
+    "icd11Term": "Joint disorders",
+    "confidence": 89
+  },
+  "cardiovascular": {
+    "keywords": ["heart", "cardiac", "qalb", "हृदय", "cardiovascular", "chest pain"],
+    "namasteCode": "CVD-1.1",
+    "namasteTerm": "वज अल-कल्ब",
+    "englishTerm": "Heart pain",
+    "system": "Unani",
+    "icd11Code": "XM5432",
+    "icd11Term": "Cardiovascular disorder",
+    "confidence": 94
+  }
+}
