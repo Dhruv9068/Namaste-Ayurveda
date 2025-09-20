@@ -1,4 +1,4 @@
-# 🧘‍♀️ NAMASTE - Traditional Medicine EHR System
+# 🧘‍♀️ NAMASTE Ayurveda - Traditional Medicine EHR System
 
 ## 🎯 Problem Statement
 
